@@ -24,6 +24,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@fontsource/lexend": "^5.0.20"
+		"@fontsource/lexend": "^5.0.20",
+		"svelte-scrolling": "^1.4.0"
 	}
 }
